@@ -6,6 +6,7 @@
 
 [![Hire me on Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/lcboss77/create-custom-fivem-scripts-that-make-your-server-unforgettable)
 [![Portfolio](https://img.shields.io/badge/See%20my-Portfolio-4cc2ff?style=for-the-badge)](https://lcboss77.github.io/)
+[![Discord](https://img.shields.io/badge/Join%20my-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vea5eC334Z)
 
 ---
 
@@ -43,6 +44,8 @@ More UIs: item manager, death contract tablet, diving oxygen bar, fingerprint sc
 3. You get working code, setup steps and a short how-to.
 
 I'll tell you honestly if I'm not the right fit.
+
+Prefer to chat first? **[Join my Discord](https://discord.gg/vea5eC334Z)**.
 
 [**Message me on Fiverr →**](https://www.fiverr.com/lcboss77/create-custom-fivem-scripts-that-make-your-server-unforgettable)
 
