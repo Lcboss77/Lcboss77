@@ -33,6 +33,8 @@ Your server doesn't need another script that looks good in a demo and breaks in 
 | <img src="https://lcboss77.github.io/img-pet-1-shop.jpg" alt="Pet shop UI" width="420"> | <img src="https://lcboss77.github.io/img-companion-1-shop.jpg" alt="Companion store UI" width="420"> |
 | Animal shop and pet care with six live needs | Premium companion store and command menu |
 
+**▶ [Try the lc-commlist live demo](https://lcboss77.github.io/lc-commlist-demo/)**: run every command and see how it works, right in your browser.
+
 More UIs: item manager, death contract tablet, diving oxygen bar, fingerprint scanner and others, all in the **[portfolio](https://lcboss77.github.io/)**.
 
 ---
